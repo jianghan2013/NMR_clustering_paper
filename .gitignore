@@ -1,0 +1,12 @@
+# Ignore everything
+*
+# But not these files...
+!.gitignore
+!*.IPYNB   
+!*.py 
+!data/*.txt
+!data_process/*.txt
+# ...even if they are in subdirectories
+!*/
+# ignore ipynb checkpoint folder
+*.ipynb_checkpoints
