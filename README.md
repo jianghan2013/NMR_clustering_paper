@@ -5,7 +5,7 @@ NMR Clustering is a python tool to applying clustering algorithms for fluid char
 ## Author
 
 The code is developed and maitained by Han Jiang (jianghan2013@gmail.com)
-- [citation]: Jiang, H., Daigle, H., Tian, X., Pyrcz, M., Zhang, B., 2019. A Comparison of Clustering Algorithms applied to Fluid Characterization using NMR T1-T2 Maps of Shale. Computer & Geosciences. (accepted)
+- [citation]: Jiang, H., Daigle, H., Tian, X., Pyrcz, M., Zhang, B., 2019. A Comparison of Clustering Algorithms applied to Fluid Characterization using NMR T1-T2 Maps of Shale. Computers & Geosciences. (accepted)
 ## Usage
 
 First, download this repo.
